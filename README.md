@@ -1,5 +1,7 @@
 ### Olá, meu nome é Suzana dos Santos! 👋
 
+##
+
 - 👩‍🎓 Estou cursando Engenharia de Software
 - 💻 Estudando JavaScript
 - ✉️ Meu email: suzanadesenvolvedora@gmail.com
@@ -20,8 +22,7 @@
   ##
   
 <div> 
-  <a href = "gmailto:suzanadesenvolvedora@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "emailto:suzanadesenvolvedora@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/suzana-dos-santos-88a313226/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
