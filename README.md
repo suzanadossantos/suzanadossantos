@@ -5,6 +5,7 @@
 - 👩‍🎓 Estou cursando Engenharia de Software
 - 💻 Estudando JavaScript
 - ✉️ Meu email: suzanadesenvolvedora@gmail.com
+- 👩‍💻 Procurando um estágio
 
 <div align="center">
   <a href="https://github.com/suzanadossantos">
