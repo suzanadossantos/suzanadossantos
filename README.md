@@ -1,4 +1,4 @@
-### Oi, meu nome é Suzana dos Santos! 🌎
+### Oi, meu nome é Suzana dos Santos! 
 
 ##
 
