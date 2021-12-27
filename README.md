@@ -1,6 +1,14 @@
-### Oi, meu nome é Suzana dos Santos! 
+### Oi, meu nome é Suzana dos Santos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ##
+
+<div> 
+  <a href="https://www.linkedin.com/in/suzana-dos-santos-88a313226/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+###
 
 - 🎓 Estou cursando Engenharia de Software
 - 👩🏻 Tenho 18 anos  
@@ -9,9 +17,11 @@
 
 <div align="center">
   <a href="https://github.com/suzanadossantos">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=swift"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&theme=swift">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=<THEME_NAME>"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&theme=<THEME_NAME>">
 </div>
+  
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Suzana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +29,4 @@
   <img align="center" alt="Suzana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
   
-<div> 
-  <a href="https://www.linkedin.com/in/suzana-dos-santos-88a313226/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
