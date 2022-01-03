@@ -15,6 +15,12 @@
 - 💻 Estudando JavaScript
 - ✉️ Meu email: suzanadesenvolvedora@gmail.com
 
+###
+
+- Sobre mim
+
+  Sou apaixonada por tecnologia e programação! Sou muito criativa e estou sempre buscando aprender coisas novas.
+
 <div align="center">
   <a href="https://github.com/suzanadossantos">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=<THEME_NAME>"/>
