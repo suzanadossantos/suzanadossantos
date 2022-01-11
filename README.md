@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/suzanadossantos">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=algolia"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&theme=algolia">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=algolia"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&theme=algolia">
 </div>
   
   ##
