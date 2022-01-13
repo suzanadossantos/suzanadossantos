@@ -1,12 +1,4 @@
-### Oi, meu nome é Suzana dos Santos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/suzana-dos-santos-88a313226/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# Oi, meu nome é Suzana dos Santos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
 
@@ -21,6 +13,13 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&theme=algolia">
 </div>
   
+ ### Meus contatos
+  
+  <div> 
+  <a href="https://www.linkedin.com/in/suzana-dos-santos-88a313226/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+  
   ##
   
 <div style="display: inline_block"><br>
@@ -29,5 +28,3 @@
   <img align="center" alt="Suzana-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Suzana-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg">
 </div>
-  
-  
