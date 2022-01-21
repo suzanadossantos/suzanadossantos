@@ -18,14 +18,13 @@
   <div> 
   <a href="https://www.linkedin.com/in/suzana-dos-santos-88a313226/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://instagram.com/suzana_dos_santos_7/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:suzanadesenvolvedora@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  <img align="right" alt="Suzana-pic" height="170em" src="https://avatarmaker.com/temp-avatars/AM8024039788274571.png">
   </div>
-  
- <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="![CodeCodingGIF](https://user-images.githubusercontent.com/94690066/150533023-6fc29ab6-54a0-4d6a-b89c-91e962dcc447.gif)
-">
-
   
   ##
   
