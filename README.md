@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/suzanadossantos">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
@@ -22,6 +22,10 @@
   <a href = "mailto:suzanadesenvolvedora@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
+  
+ <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="![CodeCodingGIF](https://user-images.githubusercontent.com/94690066/150533023-6fc29ab6-54a0-4d6a-b89c-91e962dcc447.gif)
+">
+
   
   ##
   
