@@ -7,7 +7,9 @@
 - 💻 Estudando JavaScript
 - ✉️ Meu email: suzanadesenvolvedora@gmail.com
 
-<div align="center">
+<div align="![HackerHackerManGIF](https://user-images.githubusercontent.com/94690066/153899845-06bad8f9-0059-41dd-9ae2-4e5cbc630723.gif)
+![CodeCodingGIF](https://user-images.githubusercontent.com/94690066/153899855-177b03fb-0d85-454a-914c-2f57c3ab8b06.gif)
+center">
   <a href="https://github.com/suzanadossantos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&langs_count=7&theme=black"/>
@@ -23,7 +25,7 @@
   <a href = "mailto:suzanadesenvolvedora@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
-  <img align="right" alt="Suzana-pic" height="170em" src="https://avatarmaker.com/temp-avatars/AM8024039788274571.png">
+  <img align="right" alt="Computer" height="170em" src="https://images.unsplash.com/photo-1555066931-bf19f8fd1085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y29tcHV0ZXIlMjBwcm9ncmFtbWVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60">
   </div>
   
   ##
