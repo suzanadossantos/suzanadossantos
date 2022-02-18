@@ -4,8 +4,10 @@
 
 - 🎓 Estou cursando Engenharia de Software
 - 👩🏻 Tenho 18 anos  
-- 💻 Estudando JavaScript
+- 📚 Estudando JavaScript
 - ✉️ Meu email: suzanadesenvolvedora@gmail.com
+
+###
 
 <div align="![HackerHackerManGIF](https://user-images.githubusercontent.com/94690066/153899845-06bad8f9-0059-41dd-9ae2-4e5cbc630723.gif)
 ![CodeCodingGIF](https://user-images.githubusercontent.com/94690066/153899855-177b03fb-0d85-454a-914c-2f57c3ab8b06.gif)
@@ -15,7 +17,7 @@ center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&langs_count=7&theme=black"/>
 </div>
   
- ### Meus contatos
+ ### Meus contatos 📱
   
   <div> 
     <a href="https://www.linkedin.com/in/suzana-dos-santos-dev/" target="_blank">
@@ -26,16 +28,18 @@ center">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div> 
   
-  ### Mais projetos
+  ###
+  
+  ### Mais projetos 💻
 
   <div style="background-color: white"> 
   <a href = "https://codepen.io/Suzana070">
   <img height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_tile_logo_icon_170346.png">
- </div> 
+  </div> 
   
   ##
   
-  ### Minhas Habilidades
+  ### Minhas Habilidades ⚡
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Suzana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
