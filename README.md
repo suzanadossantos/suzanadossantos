@@ -18,17 +18,20 @@ center">
  ### Meus contatos
   
   <div> 
-  <a href="https://www.linkedin.com/in/suzana-dos-santos-dev/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/suzana_dos_santos_7/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:suzanadesenvolvedora@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/suzana-dos-santos-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/suzana_dos_santos_7/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:suzanadesenvolvedora@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div> 
   
   ### Mais projetos
 
+  <div style="background-color: white"> 
   <a href = "https://codepen.io/Suzana070">
-  <img src="https://img.icons8.com/ios-filled/50/000000/codepen.png">
+  <img height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_tile_logo_icon_170346.png">
+ </div> 
   
   ##
   
