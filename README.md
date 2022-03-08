@@ -3,7 +3,7 @@
 ###
 
 - 🎓 Estou cursando Engenharia de Software
-- 👩🏻 Tenho 18 anos  
+- 👩🏻 Tenho 19 anos  
 - 📚 Estudando JavaScript
 - ✉️ Meu email: suzanadesenvolvedora@gmail.com
 
