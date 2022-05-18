@@ -8,11 +8,8 @@
 - 📚 Estudando desenvolvimento web
 
 ###
-
-<div align="![HackerHackerManGIF](https://user-images.githubusercontent.com/94690066/153899845-06bad8f9-0059-41dd-9ae2-4e5cbc630723.gif)
-![CodeCodingGIF](https://user-images.githubusercontent.com/94690066/153899855-177b03fb-0d85-454a-914c-2f57c3ab8b06.gif)
-center">
   <a href="https://github.com/suzanadossantos">
+
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=suzanadossantos&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzanadossantos&layout=compact&langs_count=7&theme=black"/>
 </div>
