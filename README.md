@@ -1,4 +1,4 @@
-# Oi, meu nome é Suzana dos Santos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Oi, meu nome é Suzana dos Santos!
 
 ###
 
