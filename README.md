@@ -2,7 +2,7 @@
 
 ###
 
-- 💻 Desenvolvedora Web 
+- 💻 Desenvolvedora Front-End 
 - 🎓 Cursando Engenharia de Software
 - 👩🏻 19 anos  
 - 📚 Estudando desenvolvimento web
