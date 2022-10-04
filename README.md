@@ -1,10 +1,10 @@
-# Olá, seja bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# Olá, seja _bem-vindo(a)_! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 <br>
 
-* 💻 Desenvolvedora Front-End
-* 🎓 Cursando Engenharia de Software
-* 👩🏻‍💻 Estudando desenvolvimento web
+* 💻 **Desenvolvedora Front-End**
+* 🎓 Cursando **Engenharia de Software**
+* 👩🏻‍💻 Estudando **Desenvolvimento Web**
 
 <br>
 
