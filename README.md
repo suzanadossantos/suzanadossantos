@@ -2,7 +2,7 @@
 
 <br>
 
-Tenho 20 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia. 
+Tenho 21 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia. 
          
 <br>
 
