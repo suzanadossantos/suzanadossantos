@@ -6,9 +6,9 @@ Tenho 21 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia.
          
 <br>
 
-* 💻 **Desenvolvedora Front-End**
+* 💻 **Desenvolvedora de Jogos**
 * 🎓 Cursando **Engenharia de Software**
-* 👩🏻‍💻 Estudando **Desenvolvimento Web**
+* 👩🏻‍💻 Estudando **Desenvolvimento de Jogos**
 
 <br>
 
@@ -20,6 +20,8 @@ Tenho 21 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia.
 ## Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
+   <img align="center" alt="Suzana-Unity" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-plain.svg">
+   <img align="center" alt="Suzana-C#" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
    <img align="center" alt="Suzana-JS" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Suzana-HTML" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
    <img align="center" alt="Suzana-CSS" height="30" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
@@ -30,15 +32,6 @@ Tenho 21 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia.
 </div>
 
 <br><br>
-
-## Mais projetos
-
-  <div><br>
-    <a href = "https://codepen.io/Suzana070">
-    <img height="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/codepen_tile_logo_icon_170346.png">
-  </div> 
-      
-<br>
       
 ## Contato
 
