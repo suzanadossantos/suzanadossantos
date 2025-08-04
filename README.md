@@ -2,13 +2,13 @@
 
 <br>
 
-Tenho 21 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia. 
+Tenho 22 anos, moro no Rio de Janeiro e sou apaixonada por tecnologia. 
          
 <br>
 
-* 💻 **Desenvolvedora de Jogos**
-* 🎓 Cursando **Engenharia de Software**
-* 👩🏻‍💻 Estudando **Desenvolvimento de Jogos**
+* 💻 **Desenvolvedora de Jogos** e **Desenvolvedora Front-End**
+* 🎓 Formada em **Engenharia de Software**
+* 👩🏻‍💻 Estudando **Desenvolvimento de Jogos** e **Desenvolvimento Front-End**
 
 <br>
 
